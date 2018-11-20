@@ -55,6 +55,6 @@ Padding'as standartinis. Stiprumas pagal raktą.
 Užregistravus GII sąvade ID turi būti suteikiamas automatiškai.
 Reikia atsiųsti vartotojo atstovaujamų subjektų srautų registracijos sąrašą. Tai galėsite padaryt VVS sąsajos pagalbos skyriuje:
 
-!https://screencast.com/t/Svh19dUFtKez!
+https://screencast.com/t/Svh19dUFtKez
 
 Tai bus csv failas. Jame "Registracijos ID" stulpelyje rasite identifikatoriaus reikšmę.
